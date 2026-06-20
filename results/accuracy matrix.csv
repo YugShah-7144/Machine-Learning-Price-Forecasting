@@ -1,0 +1,76 @@
+Asset,Timeframe,Model,Directional Acc (%),Sample Size
+GLD,Daily,Naive Benchmark,48.93,1032
+GLD,Daily,Logistic Regression,51.16,1032
+GLD,Daily,Random Forest,51.94,1032
+GLD,Daily,XGBoost,50.39,1032
+GLD,Daily,LSTM,49.22,1032
+GLD,3Day,Naive Benchmark,48.51,505
+GLD,3Day,Logistic Regression,50.5,505
+GLD,3Day,Random Forest,49.31,505
+GLD,3Day,XGBoost,50.1,505
+GLD,3Day,LSTM,50.1,505
+GLD,5Day,Naive Benchmark,50.34,296
+GLD,5Day,Logistic Regression,52.03,296
+GLD,5Day,Random Forest,50.0,296
+GLD,5Day,XGBoost,47.64,296
+GLD,5Day,LSTM,52.03,296
+GLD,Weekly,Naive Benchmark,55.03,189
+GLD,Weekly,Logistic Regression,55.03,189
+GLD,Weekly,Random Forest,54.5,189
+GLD,Weekly,XGBoost,53.97,189
+GLD,Weekly,LSTM,51.32,189
+GLD,Biweekly,Naive Benchmark,48.39,93
+GLD,Biweekly,Logistic Regression,50.54,93
+GLD,Biweekly,Random Forest,61.29,93
+GLD,Biweekly,XGBoost,54.84,93
+GLD,Biweekly,LSTM,54.84,93
+BTC,Daily,Naive Benchmark,51.84,1032
+BTC,Daily,Logistic Regression,50.29,1032
+BTC,Daily,Random Forest,51.94,1032
+BTC,Daily,XGBoost,51.55,1032
+BTC,Daily,LSTM,50.1,1032
+BTC,3Day,Naive Benchmark,50.89,505
+BTC,3Day,Logistic Regression,48.91,505
+BTC,3Day,Random Forest,50.3,505
+BTC,3Day,XGBoost,52.87,505
+BTC,3Day,LSTM,50.89,505
+BTC,5Day,Naive Benchmark,49.32,296
+BTC,5Day,Logistic Regression,44.26,296
+BTC,5Day,Random Forest,45.27,296
+BTC,5Day,XGBoost,51.69,296
+BTC,5Day,LSTM,46.96,296
+BTC,Weekly,Naive Benchmark,46.56,189
+BTC,Weekly,Logistic Regression,43.39,189
+BTC,Weekly,Random Forest,46.03,189
+BTC,Weekly,XGBoost,49.21,189
+BTC,Weekly,LSTM,48.68,189
+BTC,Biweekly,Naive Benchmark,54.84,93
+BTC,Biweekly,Logistic Regression,44.09,93
+BTC,Biweekly,Random Forest,49.46,93
+BTC,Biweekly,XGBoost,44.09,93
+BTC,Biweekly,LSTM,46.24,93
+MEM,Daily,Naive Benchmark,49.94,791
+MEM,Daily,Logistic Regression,63.59,791
+MEM,Daily,Random Forest,66.37,791
+MEM,Daily,XGBoost,66.75,791
+MEM,Daily,LSTM,52.47,791
+MEM,3Day,Naive Benchmark,50.0,392
+MEM,3Day,Logistic Regression,56.89,392
+MEM,3Day,Random Forest,55.36,392
+MEM,3Day,XGBoost,54.08,392
+MEM,3Day,LSTM,44.39,392
+MEM,5Day,Naive Benchmark,49.56,228
+MEM,5Day,Logistic Regression,55.26,228
+MEM,5Day,Random Forest,53.51,228
+MEM,5Day,XGBoost,56.58,228
+MEM,5Day,LSTM,56.14,228
+MEM,Weekly,Naive Benchmark,49.29,140
+MEM,Weekly,Logistic Regression,56.43,140
+MEM,Weekly,Random Forest,59.29,140
+MEM,Weekly,XGBoost,62.86,140
+MEM,Weekly,LSTM,53.57,140
+MEM,Biweekly,Naive Benchmark,42.03,69
+MEM,Biweekly,Logistic Regression,49.28,69
+MEM,Biweekly,Random Forest,59.42,69
+MEM,Biweekly,XGBoost,49.28,69
+MEM,Biweekly,LSTM,43.48,69
